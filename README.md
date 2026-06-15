@@ -11,6 +11,8 @@ Journal publication pending.
 
 Install R and then run the following in your R console:
 
-'install.packages("shiny")
+'''
+install.packages("shiny")
 library(shiny)
-shiny::runGitHub("CPI2", "AnkeRichters")'
+shiny::runGitHub("CPI2", "AnkeRichters")
+'''
